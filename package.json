@@ -1,0 +1,29 @@
+{
+  "name": "aws-pipeline-example",
+  "version": "1.0.0",
+  "description": "An express js sample project to be used with aws pipeline and other aws services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amri91/aws-pipeline-example.git"
+  },
+  "keywords": [
+    "aws",
+    "example",
+    "pipeline"
+  ],
+  "author": "Abdulrahman Amri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amri91/aws-pipeline-example/issues"
+  },
+  "homepage": "https://github.com/Amri91/aws-pipeline-example#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "expressjs-plus": "^1.0.0",
+    "simple-express-validator": "^4.0.10"
+  }
+}
