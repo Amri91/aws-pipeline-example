@@ -10,7 +10,7 @@ module.exports = {
         // First application
         {
             name      : "awsPipelineExample",
-            script    : "index.js",
+            script    : "/webapps/myApp/index.js",
             env: {
                 COMMON_VARIABLE: "true"
             },
