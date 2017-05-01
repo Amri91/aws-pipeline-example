@@ -20,4 +20,4 @@ artifacts:
   files:
     - index.js
     - appspec.yml
-    - deploymentScripts
+    - deploymentScripts/*
