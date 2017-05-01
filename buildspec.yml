@@ -21,3 +21,5 @@ artifacts:
     - index.js
     - appspec.yml
     - deploymentScripts/*
+    - ecosystem.config.js
+    - package.json
