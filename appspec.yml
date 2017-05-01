@@ -13,3 +13,4 @@ hooks:
   ApplicationStart:
     - location: deploymentScripts/applicationStart.sh
     - timeout: 20
+    
