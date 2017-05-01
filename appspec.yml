@@ -6,11 +6,10 @@ files:
 hooks:
   BeforeInstall:
     - location: deploymentScripts/beforeInstall.sh
-    - timeout: 60
+      timeout: 60
   AfterInstall:
     - location: deploymentScripts/afterInstall.sh
-    - timeout: 180
+      timeout: 180
   ApplicationStart:
     - location: deploymentScripts/applicationStart.sh
-    - timeout: 20
-    
+      timeout: 20
