@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4d42c9-ff49-4439-8511-c2b45a9b80cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" afterPath="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" afterPath="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -150,7 +149,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="2288" />
-    <option name="y" value="92" />
+    <option name="y" value="93" />
     <option name="width" value="1311" />
     <option name="height" value="901" />
   </component>
@@ -313,15 +312,15 @@
       <workItem from="1493470045663" duration="13000" />
       <workItem from="1493470068190" duration="1829000" />
       <workItem from="1493471903594" duration="339000" />
-      <workItem from="1493640979355" duration="8570000" />
+      <workItem from="1493640979355" duration="8904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10751000" />
+    <option name="totallyTimeSpent" value="11085000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2288" y="92" width="1311" height="901" extended-state="0" />
+    <frame x="2288" y="93" width="1311" height="901" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
