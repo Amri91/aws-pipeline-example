@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
-cd $appHome
+cd /webapps/myApp
 npm install
