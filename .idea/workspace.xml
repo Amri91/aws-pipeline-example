@@ -32,9 +32,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              <folding>
-                <marker date="1493648003312" expanded="true" signature="9:11" ph="0.0" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -314,12 +312,12 @@
       <workItem from="1493470045663" duration="13000" />
       <workItem from="1493470068190" duration="1829000" />
       <workItem from="1493471903594" duration="339000" />
-      <workItem from="1493640979355" duration="4276000" />
+      <workItem from="1493640979355" duration="4601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6457000" />
+    <option name="totallyTimeSpent" value="6782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2288" y="92" width="1311" height="901" extended-state="0" />
@@ -367,9 +365,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <marker date="1493648003312" expanded="true" signature="9:11" ph="0.0" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -411,9 +407,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <marker date="1493648003312" expanded="true" signature="9:11" ph="0.0" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -495,9 +489,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <marker date="1493648003312" expanded="true" signature="9:11" ph="0.0" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
