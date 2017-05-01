@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4d42c9-ff49-4439-8511-c2b45a9b80cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildspec.yml" afterPath="$PROJECT_DIR$/buildspec.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" afterPath="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="buildspec.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="buildspec.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/buildspec.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="400">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,17 +61,17 @@
         <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16">
-              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationStop.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="applicationStop.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="32">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
       <file leaf-file-name="applicationStart.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="16">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,13 +126,13 @@
       <list>
         <option value="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh.js" />
         <option value="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
-        <option value="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
         <option value="$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
         <option value="$PROJECT_DIR$/ecosystem.config.js" />
         <option value="$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/appspec.yml" />
         <option value="$PROJECT_DIR$/buildspec.yml" />
+        <option value="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
       </list>
     </option>
   </component>
@@ -312,12 +312,12 @@
       <workItem from="1493470045663" duration="13000" />
       <workItem from="1493470068190" duration="1829000" />
       <workItem from="1493471903594" duration="339000" />
-      <workItem from="1493640979355" duration="6383000" />
+      <workItem from="1493640979355" duration="7653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8564000" />
+    <option name="totallyTimeSpent" value="9834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2288" y="92" width="1311" height="901" extended-state="0" />
@@ -419,38 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -477,6 +445,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/buildspec.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/appspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -485,10 +461,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buildspec.yml">
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="16">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
