@@ -4,9 +4,6 @@ files:
   - source: /
     destination: /webapps/myApp
 hooks:
-  BeforeInstall:
-    - location: deploymentScripts/beforeInstall.sh
-      timeout: 60
   AfterInstall:
     - location: deploymentScripts/afterInstall.sh
       timeout: 180
