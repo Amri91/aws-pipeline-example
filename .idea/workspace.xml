@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4d42c9-ff49-4439-8511-c2b45a9b80cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dockerfile" afterPath="$PROJECT_DIR$/dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
@@ -69,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
@@ -97,7 +97,6 @@
         <option value="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh.js" />
         <option value="$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/appspec.yml" />
         <option value="$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
         <option value="$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/ecosystem.config.js" />
         <option value="$PROJECT_DIR$/buildspec.yml" />
         <option value="$PROJECT_DIR$/dockerfile" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -276,12 +276,12 @@
       <workItem from="1493823574223" duration="606000" />
       <workItem from="1493936371158" duration="90000" />
       <workItem from="1494030161950" duration="560000" />
-      <workItem from="1494033637665" duration="4397000" />
+      <workItem from="1494033637665" duration="5490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24086000" />
+    <option name="totallyTimeSpent" value="25179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3867" y="40" width="1653" height="894" extended-state="0" />
@@ -721,6 +721,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -733,14 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding />
         </state>
       </provider>
