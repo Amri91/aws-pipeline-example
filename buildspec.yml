@@ -1,25 +1,10 @@
 version: 0.1
 
 phases:
-  install:
-    commands:
-      - echo Installing Mocha...
-      - npm install -g mocha
-  pre_build:
-    commands:
-      - echo Installing source NPM dependencies...
-      - npm install
   build:
     commands:
       - echo Build started on `date`
-      - echo Compiling the Node.js code
-  post_build:
-    commands:
-      - echo Build completed on `date`
-artifacts:
-  files:
-    - index.js
-    - appspec.yml
-    - deploymentScripts/*
-    - ecosystem.config.js
-    - package.json
+      - aws ecr get-login --region us-west-2
+      - docker build -t simple-node-server .
+      - docker tag simple-node-server:latest 662916893260.dkr.ecr.us-west-2.amazonaws.com/simple-node-server:latest
+      - docker push 662916893260.dkr.ecr.us-west-2.amazonaws.com/simple-node-server:latest
