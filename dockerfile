@@ -14,4 +14,4 @@ COPY . /usr/src/app
 
 EXPOSE 3000
 
-pm2-docker startOrReload ecosystem.config.js
+RUN pm2-docker startOrReload ecosystem.config.js
