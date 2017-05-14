@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4d42c9-ff49-4439-8511-c2b45a9b80cf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="buildspec.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/buildspec.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="105" lean-forward="true" selection-start-line="17" selection-start-column="105" selection-end-line="17" selection-end-column="105" />
+            <state relative-caret-position="144">
+              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -31,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/.dockerignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -61,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
@@ -103,8 +104,8 @@
         <option value="$PROJECT_DIR$/.dockerignore" />
         <option value="$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
         <option value="$PROJECT_DIR$/ecosystem.config.js" />
-        <option value="$PROJECT_DIR$/buildspec.yml" />
         <option value="$PROJECT_DIR$/dockerfile" />
+        <option value="$PROJECT_DIR$/buildspec.yml" />
         <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
@@ -121,10 +122,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3867" />
-    <option name="y" value="40" />
-    <option name="width" value="1653" />
-    <option name="height" value="894" />
+    <option name="x" value="3870" />
+    <option name="y" value="101" />
+    <option name="width" value="1643" />
+    <option name="height" value="901" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -144,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,7 +161,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,33 +277,35 @@
       <workItem from="1493823574223" duration="606000" />
       <workItem from="1493936371158" duration="90000" />
       <workItem from="1494030161950" duration="560000" />
-      <workItem from="1494033637665" duration="5490000" />
+      <workItem from="1494033637665" duration="6845000" />
+      <workItem from="1494300864231" duration="6839000" />
+      <workItem from="1494761411481" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25179000" />
+    <option name="totallyTimeSpent" value="33930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3867" y="40" width="1653" height="894" extended-state="0" />
+    <frame x="3870" y="101" width="1643" height="901" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19903207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23250152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33077905" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -327,14 +330,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
     <entry file="file://$PROJECT_DIR$/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -343,30 +339,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -375,22 +350,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -405,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -425,14 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -441,22 +394,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -465,14 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -487,18 +419,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
     <entry file="file://$PROJECT_DIR$/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -507,14 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -523,22 +440,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -547,22 +450,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -577,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -589,30 +477,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -631,38 +498,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStop.sh" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -671,42 +516,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appspec.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/beforeInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/afterInstall.sh" />
+    <entry file="file://$PROJECT_DIR$/deploymentScripts/applicationStart.sh" />
+    <entry file="file://$PROJECT_DIR$/appspec.yml" />
     <entry file="file://$PROJECT_DIR$/ecosystem.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
@@ -716,7 +533,7 @@
     <entry file="file://$PROJECT_DIR$/.dockerignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -724,15 +541,15 @@
     <entry file="file://$PROJECT_DIR$/dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="105" lean-forward="true" selection-start-line="17" selection-start-column="105" selection-end-line="17" selection-end-column="105" />
+        <state relative-caret-position="144">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding />
         </state>
       </provider>
